@@ -61,18 +61,28 @@ $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
+$main-purple               : #742a72;
+$main-green                : #009988 ;
+$dark-purple               : mix(#000, $main-purple,50%);
+$light-purple              : mix(#fff, $main-purple,50%);
+$dark-green                : mix(#000, $main-green, 50%);
+$light-green               : mix(#fff, $main-green, 50%);
+$lightest-purple           : mix(#fff, $main-purple,90%); 
+$lightest-green            : mix(#fff, $main-green,90%); 
+
+
 $body-color                 : #fff;
 $background-color           : #fff;
 $code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
 $text-color                 : $dark-gray;
-$border-color               : $lighter-gray;
+$border-color               : $lightest-purple;
 
-$primary-color              : #7a8288;
+$primary-color              : $main-purple;
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
-$info-color                 : #52adc8;
+$info-color                 : $main-green;
 
 /* brands */
 $behance-color              : #1769FF;
@@ -94,6 +104,7 @@ $rss-color                  : #fa9b39;
 $soundcloud-color           : #ff3300;
 $stackoverflow-color        : #fe7a15;
 $tumblr-color               : #32506d;
+$twitch-color               :#6441a5; 
 $twitter-color              : #55acee;
 $vimeo-color                : #1ab7ea;
 $vine-color                 : #00bf8f;
