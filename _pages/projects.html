@@ -1,0 +1,16 @@
+---
+layout: archive
+title: "Projects"
+permalink: /projects/
+author_profile: true
+---
+
+{% include base_path %}
+
+A collection of longer term projects, and collaborations I have been involved with. 
+
+
+{% for post in site.portfolio reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
