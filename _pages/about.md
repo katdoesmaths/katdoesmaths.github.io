@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-This site is (perhaps obviously) under maintenance
-====
 
 Hi and Shwmae, Welcome and Croeso. My name is Kat, and I do maths. Specifically, I have a PhD in Statistical Applied Mathematics, but I consider myself a fluid dynamicist at heart as that is where my main research interests lie. I enjoy sharing my passion for maths with others, and encouraging people to get past the stigma that often comes with telling people you like maths. I also have a strong passion for demystifying academia, and easing access to higher education, through sharing educational content, and providing information around higher education admissions. 
 I describe myself as a wearer of many hats, as having to put a name to the numerous roles I have has become too complicated (and if kat does maths didn't give it away, I like easy explanations). Some of the hats I wear currently are: 
