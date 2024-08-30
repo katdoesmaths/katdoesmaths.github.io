@@ -1,11 +1,11 @@
 ---
 title: "UKFN Early Career Conference"
 collection: talks
-type: "Talk"
-permalink: /talks/2012-03-01-talk-1
-venue: "UC San Francisco, Department of Testing"
-date: 2012-03-01
-location: "San Francisco, California"
+type: "Conference Attendance"
+permalink: /talks/2018-07-10-UKFN-ECC
+venue: "Cardiff University"
+date: 2018-07-10
+location: "Cardiff, UK "
 ---
 
-This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+Whilst undertaking a summer project at Cardiff University between my third and fourth years of undergraduate, I was invited to attend the UKFN Early Career Conference.
