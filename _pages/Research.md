@@ -18,8 +18,10 @@ Post-PhD my research has had a large industrial motivation, as I completed a Kno
 I am now part of the Centre for Applications of Mathematical and Computing Sciences at the University of Warwick, where I work on a series of impact driven research projects. 
 
 ****
+
 Education
 ----
+
 * PhD: "Filling the Gap on Droplet Dynamics", _University of Bath, 2024_
 * MRes: "Elucidating the lubrication layer arising from impacting droplets", _University of Bath, 2020_
 * MMath: "Proper generalized decomposition for partial differential equations", _University of Cardiff, 2019_
