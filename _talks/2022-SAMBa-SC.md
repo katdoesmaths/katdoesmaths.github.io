@@ -1,7 +1,7 @@
 ---
 title: "Lubrication layer cushioned capillary-scale rebound dynamics"
 collection: talks
-type: "Contributed talk"
+type: "Contributed talk, <i>SAMBa Summer Confrence </i>"
 permalink: /talks/2022-SAMBa-SC
 venue: "University of Bath"
 date: 2022-07-06

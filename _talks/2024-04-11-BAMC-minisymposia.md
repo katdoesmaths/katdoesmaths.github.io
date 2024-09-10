@@ -1,7 +1,7 @@
 ---
 title: "Maths Communication Minisymposia"
 collection: talks
-type: "Minisymposia"
+type: "Minisymposia, <i>BAMC</i>"
 permalink: /talks/2024-BAMC-Minisymposia
 venue: "Newcastle University"
 date: 2024-04-11
