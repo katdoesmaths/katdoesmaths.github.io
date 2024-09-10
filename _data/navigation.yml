@@ -11,13 +11,13 @@ main:
   - title: "Maths Communication"
     url: /mathscomm/
 
-  - title: "Talks and Appearences"
+  - title: "Talks and Training"
     url: /talks/    
 
   #- title: "Teaching"
   #  url: /teaching/    
     
-  - title: "Projects"
+  - title: "Projects and Appearences"
     url: /projects/
 
   - title: "PhD Your Way (offsite)"
