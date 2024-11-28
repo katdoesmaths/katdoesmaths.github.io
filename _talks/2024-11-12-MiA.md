@@ -3,7 +3,7 @@ title: "Filling the Gap on Droplet Dynamics"
 collection: talks
 type: "Contributed Talk, <i>UKFN 2024</i>"
 permalink: /talks/2024-UKFN
-venue: "Swansea University"
+venue: "University of Swansea,"
 date: 2024-09-09
 location: "Swansea, UK"
 ---
