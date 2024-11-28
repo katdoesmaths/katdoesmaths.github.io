@@ -20,7 +20,7 @@ I describe myself as a wearer of many hats, as having to put a name to the numer
 
 Recently...
 ====
-I GOT MY PHD!!!!!! Whilst I've been finishing up my studies, my online presence has had to take a bit of a backseat. With a new job and a brand new lease on life, I'm hoping to get back to livestreaming early this autumn! <i>- last updated on 30/08/2024</i>
+I spent November giving 7 different events (Lectures, Talks, PyW Days...) and it was so incredibly rewarding! Autumn really is the busy season for maths communication it seems, and now the hard work is all done we're gearing up for whatever 2025 brings <i>- last updated on 28/11/2024</i>
 
 Contact
 ====
