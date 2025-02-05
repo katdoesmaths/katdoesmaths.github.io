@@ -1,16 +1,47 @@
 ---
 layout: archive
-title: "Projects and Collaborations"
+title: "Long Term Projects"
 permalink: /projects/
 author_profile: true
+footer: false
 ---
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+  * {
+    box-sizing: border-box;
+  }
+  
+  /* Create two equal columns that floats next to each other */
+  .column {
+    float: left;
+    width: 30%;
+    padding: 10px;
+    height: 400px;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  </style>
+  </head>
+<body>
+<div class="row">
+  <div class="column" style="background-color:#d3d3d3;">
+    <h2>PhD Your Way </h2>
+    <p>My pride and joy, flagship event. For those PhD-curious who want to know what doing a maths PhD in the UK is like. Website <a href='https://sites.google.com/view/phd-your-way'>here.</a></p>
+  </div>
+  <div class="column" style="background-color:#f3f3f3;">
+    <h2>Unstable Fluid Podcast</h2>
+    <p>A mathematican and a physicist walk into a poscasting studio... and <a href='https://pod.link/1707160715'>this</a> is the outcome of that.</p>
+  </div>
+  <div class="column" style="background-color:#d3d3d3;">
+    <h2>QED Network</h2>
+    <p>I am delighted to be the <a href='https://sites.google.com/view/qednetwork/home?authuser=0'>Queer, Equality and Diversity Network of Mathematicians</a> resident tech gremlin.</p>
+  </div>
+</div>
 
-{% include base_path %}
-
-A collection of longer term projects, and collaborations I have been involved with. 
-
-
-{% for post in site.portfolio reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
+</body>

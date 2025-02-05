@@ -14,13 +14,13 @@ main:
   - title: "Appearances"
     url: /appearances/    
 
-  #- title: "Teaching"
-  #  url: /teaching/    
-    
-  - title: "Projects and Collaborations"
+  - title: "Long Term Projects"
     url: /projects/
 
-  - title: "PhD Your Way (offsite)"
-    url: "https://sites.google.com/view/phd-your-way"
+  - title: "Resources"
+    url: /resources/    
+    
+  #- title: "PhD Your Way (offsite)"
+  #  url: "https://sites.google.com/view/phd-your-way"
         
   
