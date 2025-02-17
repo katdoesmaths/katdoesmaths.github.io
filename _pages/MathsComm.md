@@ -43,4 +43,4 @@ Throughout my PhD at the SAMBa CDT, University of Bath, we were encouraged to co
 * Poster design for academics
 * Speaking at academic conferences
 * How to run hybrid events
-*
+* Developing communication opportunities in your department - Consultancy
