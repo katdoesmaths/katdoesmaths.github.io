@@ -40,5 +40,7 @@ Training
 Throughout my PhD at the SAMBa CDT, University of Bath, we were encouraged to collaborate with eachother extensively, and aid the training for the newer cohorts of students. Through this I developed a series of training courses perfect for PhD students, and coupled my SciComm career to develop training sessions for broader maths communication for academic audiences. The sessions I currently offer include: 
 * How I learned to stop worrying and love the 'Comm (Getting started with Maths Communication) 
 * Websites and Online presence for academics 
-* Poster design for academic conferences
+* Poster design for academics
 * Speaking at academic conferences
+* How to run hybrid events
+*
