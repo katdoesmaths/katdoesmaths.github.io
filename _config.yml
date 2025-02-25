@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Dr K. A. Phillips"
   pronouns         : "She/Her"  
-  bio              : "Maths Communicator, and Innovation Research Asociate (InRA) at the Centre for Applications of Mathematical and Computing Sciences at the University of Warwick"
+  bio              : "Maths Communicator, and Innovation Research Asociate (InRA)"
   location         : #
-  employer         : #
+  employer         : "University of Warwick, Freelance"
   uri              : # URL
   email            : # 
 
@@ -49,7 +49,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : # "bsky.app" # Replace this with you Bluesky username
+  bluesky          : "katdoesmaths"
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -66,14 +66,14 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitch           : "https://twitch.tv/katdoesmaths"
+  twitch           : "katdoesmaths"
   twitter          : "katdoesmaths"
-  threads          : "https://www.threads.net/@katdoesmaths?hl=en-gb"
+  threads          : "katdoesmaths"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : "youtube.com/@katdoesmaths"
+  youtube          : "katdoesmaths"
   zhihu            : # URL
 
 # Publication Category - The following the list of publication categories and their headings

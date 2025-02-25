@@ -8,18 +8,21 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Maths Communication"
+  - title: "Maths on Twitch"
     url: /mathscomm/
 
-  - title: "Appearances"
+  - title: "Speaking and Training"
+    url: /hireme/    
+    
+  - title: "Wall of Appearances"
     url: /appearances/    
 
-  - title: "Long Term Projects"
+  - title: "Projects"
     url: /projects/
 
-  - title: "Resources"
-    url: /resources/    
     
+  - title: "Contact"
+    url: /contact/   
   #- title: "PhD Your Way (offsite)"
   #  url: "https://sites.google.com/view/phd-your-way"
         
