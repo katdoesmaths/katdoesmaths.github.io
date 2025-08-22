@@ -21,7 +21,7 @@ I describe myself as a wearer of many hats, as having to put a name to the numer
 
 Recently...
 ====
-I've started formally delivering Comms training, if you're interested in hiring me there should be a page on this site coming soon!<i>- last updated on 25/02/2025</i>
+I was delighted to accept the Warwick Awards for Public and Community Engagement (WAPCE) for [Online Engagement](https://warwick.ac.uk/wie/recognition/wapce/awardees2025/)!! _last updated 22/08/2025_
 
 
 
