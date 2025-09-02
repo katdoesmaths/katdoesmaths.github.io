@@ -31,20 +31,23 @@ I am available for a variety of speaking and hosting engagements. I bring an inf
 Training 
 ---
 
-I have over five years of experience delivering training to PhD students and early career researchers helping give them the skills to develop their own communication techniques and online presences. I offer a series of modules which fit into three streams of bespoke training sessions and which can be tailored to half-day, full-day and two-day series.
+I have over five years of experience delivering training to PhD students and early career researchers helping give them the skills to develop their own communication techniques and online presences. I offer a series of modules which fit into three streams of bespoke training sessions and which can be tailored to a 1 hour, half-day, and full-day series.
 
 
 1.  **How I learned to Stop Worrying and love the 'Comm** <br>
-    A tell-all walk through my own experience of discovering maths communication, building up public speaking skills and everything you need to kick start your own communication journey. _This session has the option to be tailored as a workshop lead up for a specific event._
+    A tell-all walk through my own experience of discovering maths communication, building up public speaking skills and everything you need to kick start your own communication journey. _This session has the option to be tailored as a workshop lead up for a specific event._ <br>
+    > e.g. 1 hour talk: Finding your niche.
 2. **Online Presence for Academics**<br>
-    Whether you're event planning, wanting to improve your own personal brand and online presence, or curious how to elevate your hybrid events, this hands-on workshop takes you through step by step the best way to get comfortable online. _laptops/ PC access required_.
+    Whether you're event planning, wanting to improve your own personal brand and online presence, or curious how to elevate your hybrid events, this hands-on workshop takes you through step by step the best way to get comfortable online. _laptops/ PC access required_. <br>
+    > e.g half day: Building a brand, developing a website, and OBS and other Software.
 3. **Conferencing 101** <br>
-     This series is ideal for early year PhD students and late stage undergraduates who don't know where to start with conferences. Starting from why you attend a conference, developing poster/talk presentation skills, and key networking tips and tricks that can elevate your conferencing game. _This can also be tailored to helping ECR researchers interested in running their own conference, and combined with modules from Online Presence for running hybrid events._
+     This series is ideal for early year PhD students and late stage undergraduates who don't know where to start with conferences. Starting from why you attend a conference, developing poster/talk presentation skills, and key networking tips and tricks that can elevate your conferencing game. _This can also be tailored to helping ECR researchers interested in running their own conference, and combined with modules from Online Presence for running hybrid events._ <br>
+     > e.g full day: Morning session consulting with conference organisers covering programming and logistics, engagement evaluation, hybrid events. Afternoon session for attendees including public speaking, poster design, creating an elevator pitch.
 
 
 <img src="/images/Presenting.jpg" alt="Kat delivering a seminar to QMUL Undergraduates 2024"  style="float: left; margin: 0 20px 20px 20px; width: 30%;"/>
 
-Examples of topics that can combine into the streams above include: <br>
+Examples of topics that combine into the streams above include: <br>
 _Introduction to (Maths/Science) Communication, Fitting to your format, Finding your niche, Adapt to your Audience, Storytelling for academics, Engagement evaluation, Introduction to Online Engagement, Creating an elevator pitch, Website Creation, Social Media for academics, Creating and running hybrid and online events, Getting the most out of hybrid and online events, OBS and other software, Poster design, Presentation design, Public Speaking , Building Stage Presence._
 
 
