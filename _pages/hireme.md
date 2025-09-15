@@ -5,7 +5,7 @@ permalink: /hireme/
 author_profile: true
 ---
 
- I am currently available from Nov 2025 onwards, for fees and booking please reach out at katdoesenquiries(at)gmail.com.
+ I am currently available from Feb 2026 onwards, for fees and booking please reach out at katdoesenquiries(at)gmail.com.
 
 
 
