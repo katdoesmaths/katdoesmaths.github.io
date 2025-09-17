@@ -31,7 +31,7 @@ I am available for a variety of speaking and hosting engagements. I bring an inf
 Training 
 ---
 
-I have over five years of experience delivering training to PhD students and early career researchers helping give them the skills to develop their own communication techniques and online presences. I offer a series of modules which fit into three streams of bespoke training sessions and which can be tailored to a 1 hour, half-day, and full-day series.
+I have over five years of experience delivering training to PhD students and early career researchers helping give them the skills to develop their own communication techniques and online presences. I offer a series of modules which fit into three streams of bespoke training sessions and which can be tailored to a 1 hour talk, or half-day/full-day workshops.
 
 
 1.  **How I learned to Stop Worrying and love the 'Comm** <br>
