@@ -5,27 +5,31 @@ permalink: /hireme/
 author_profile: true
 ---
 
- I am currently available from Feb 2026 onwards, for fees and booking please reach out at katdoesenquiries(at)gmail.com.
+ I am currently available from May 2026 onwards, for fees and booking please reach out at katdoesenquiries(at)gmail.com.
 
 
 
 Speaking 
 ----- 
 
+<img src="/images/PresentingAEOUD.jpeg" alt="Kat speaking at an evening of unecessary detail"  style="float: right; margin: 0 0 10px 10px; width: 30%;"/>
+
 I am available for a variety of speaking and hosting engagements. I bring an informal, energetic approach to mathematics, and am more than comfortable working with audiences who would consider themselves reluctant mathematicians. 
 
-<img src="/images/Presenting2.jpg" alt="Kat speaking at Maths in Action 2024"  style="float: right; margin: 0 0 10px 10px; width: 30%;"/>
-
-* **Popular Science talks** (16+) <br>
+* **Popular Science talks** (16+ unless stated otherwise) <br>
     I'm happy to create custom talks for an increased fee, however my current roster inlcudes:
     * Everyday fluid dynamics 
-    * From symphony to the sea 
+    * From Symphony to the sea 
+    * This is not a model: and other useful lies 
     * Circles, and Gauss, and squares, oh π! 
-    * A mathematician walks into a bar...
-    * Prime suspects 
+    * A mathematician walks into a bar... (18+)
+    * Palindromic Parents 
+    
+<img src="/images/Presenting2.jpg" alt="Kat speaking at Maths in Action 2024"  style="float: left; margin: 10px 10px 0 0 ; width: 30%;"/> 
 
 * **Hosting and Presenting** <br>
     I'm available to host or present at events, panels, and conferences.  My experience ranges from compering academic conferences, Science Youtube Conventions, hosting Icebreaker events, and chairing panel discussions to name a few. I bring energy, humour, and a relaxed style that keeps things flowing while making audiences feel welcome and engaged. Whether you're looking for a high energy entertainer, or a professional mathematician to bring the numbers, please do get in touch. 
+
 
 
 Training 

@@ -82,7 +82,7 @@
 
       <!-- Font Awesome icons / Social media -->
       {% if author.bluesky %}
-        <li><a href="https://bsky.app/profile/{{ author.bluesky }}"><i class="fab fa-fw fa-bluesky icon-pad-right" aria-hidden="true"></i>Bluesky</a></li>
+        <li><a href="https://bsky.app/profile/{{ author.bluesky }}.bsky.social"><i class="fab fa-fw fa-bluesky icon-pad-right" aria-hidden="true"></i>Bluesky</a></li>
       {% endif %}
       {% if author.facebook %}
         <li><a href="https://www.facebook.com/{{ author.facebook }}"><i class="fab fa-fw fa-facebook-f icon-pad-right" aria-hidden="true"></i>Facebook</a></li>
@@ -129,6 +129,9 @@
       {% if author.telegram %}
         <li><a href="{{ author.telegram }}"><i class="fab fa-fw fa-telegram icon-pad-right" aria-hidden="true"></i>Telegram</a></li>
       {% endif %} 
+      {% if author.tiktok %}
+      <li><a href="https://tiktok.com/@{{ author.tiktok}}"><i class="fab fa-fw fa-tiktok icon-pad-right" aria-hidden="true"></i>TikTok</a></li>
+      {% endif %}  
       {% if author.threads %}
       <li><a href="https://threads.net/@{{ author.threads }}"><i class="fab fa-fw fa-threads icon-pad-right" aria-hidden="true"></i>Threads</a></li>
       {% endif %}     

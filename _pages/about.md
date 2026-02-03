@@ -12,16 +12,16 @@ Hi and Shwmae, Welcome and Croeso. My name is Kat, and I do maths. Specifically,
 
 I describe myself as a wearer of many hats, as having to put a name to the numerous roles I have has become too complicated (and if kat does maths didn't give it away, I like easy explanations). Some of the hats I wear currently are: 
 * Innovation Research Associate (InRA) at the [Centre for Applications of Mathematical & Computing Sciences (CAMaCS)](https://warwick.ac.uk/fac/sci/camacs/)
-* Twitch Livestreamer
-* Maths Communicator, and speaker for Education in Action
+* Maths Communicator
+* Livestreamer, Podcast Host, and Short form Content Creator 
 * Outreach and academic communication trainer 
-* Co-Creator and Lead on [PhD Your Way](https://sites.google.com/view/phd-your-way) 
+* Co-Creator and Lead on [PhD Your Way](https://sites.google.com/view/phd-your-way), soon to be Research Your Way thanks to the [EDIHub+ Flexible Fund](https://edihubplus.ac.uk/edi-hub-announces-first-flexible-fund-awards/)
 * Engagement leader for the Institute of Mathematics and its Applications (IMA) [Early Career Committee](https://ima.org.uk/roles/early-career-mathematicians-committee/)
 
 
 Recently...
 ====
-I was delighted to accept the Warwick Awards for Public and Community Engagement (WAPCE) for [Online Engagement](https://warwick.ac.uk/wie/recognition/wapce/awardees2025/)!! _last updated 22/08/2025_
+I was delighted to accept the Warwick Awards for Public and Community Engagement (WAPCE) for [Online Engagement](https://warwick.ac.uk/wie/recognition/wapce/awardees2025/)!! _last updated 03/02/2026_
 
 
 
