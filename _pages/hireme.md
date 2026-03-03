@@ -14,16 +14,16 @@ Speaking
 
 <img src="/images/PresentingAEOUD.jpeg" alt="Kat speaking at an evening of unecessary detail"  style="float: right; margin: 0 0 10px 10px; width: 30%;"/>
 
-I am available for a variety of speaking and hosting engagements. I bring an informal, energetic approach to mathematics, and am more than comfortable working with audiences who would consider themselves reluctant mathematicians. 
+I am available for a variety of speaking and hosting engagements. I bring an informal, energetic approach to mathematics, and am more than comfortable working with audiences who would consider themselves reluctant mathematicians. <i> "Kat is an excellent presenter who brings topics to life in exciting and memorable ways. She is easy to work with, reliable and relatable for young people starting out in maths/physics."</i> 
 
-* **Popular Science talks** (16+ unless stated otherwise) <br>
+* **Popular Science talks** <br>
     I'm happy to create custom talks for an increased fee, however my current roster inlcudes:
-    * Everyday fluid dynamics 
-    * From Symphony to the sea 
-    * This is not a model: and other useful lies 
-    * Circles, and Gauss, and squares, oh π! 
+    * Everyday fluid dynamics (16+) 
+    * From Symphony to the sea (16+)
+    * This is not a model: and other useful lies (14+)
+    * Circles, and Gauss, and squares, oh π! (16+)
     * A mathematician walks into a bar... (18+)
-    * Palindromic Parents 
+    * Palindromic Parents (14+)
     
 <img src="/images/Presenting2.jpg" alt="Kat speaking at Maths in Action 2024"  style="float: left; margin: 10px 10px 0 0 ; width: 30%;"/> 
 
