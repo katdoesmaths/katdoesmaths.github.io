@@ -13,7 +13,7 @@
   margin-bottom: 0;
   padding-left: 2em;
   padding-right: 2em;
-  font-family: $sans-serif;
+  font-family: $serif;
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.30s;
@@ -47,7 +47,7 @@
   }
 
   .current {
-    font-weight: bold;
+    font-weight: 700;
   }
 }
 
@@ -66,7 +66,7 @@
     margin: 0;
     padding: 0;
     list-style-type: none;
-    font-family: $sans-serif;
+    font-family: $serif;
   }
 
   li {
@@ -77,9 +77,9 @@
     a {
       margin-bottom: 0.25em;
       padding: 0.5em 1em;
-      font-family: $sans-serif;
-      font-size: 14px;
-      font-weight: bold;
+      font-family: $serif;
+      font-size: 16px;
+      font-weight: 700;
       line-height: 1.5;
       text-align: center;
       text-decoration: none;
@@ -126,9 +126,9 @@
     padding: 1em 2em;
     float: left;
     width: 50%;
-    font-family: $sans-serif;
+    font-family: $serif;
     font-size: $type-size-5;
-    font-weight: bold;
+    font-weight: 700;
     text-align: center;
     text-decoration: none;
     color: mix(#fff, $gray, 50%);
@@ -175,13 +175,14 @@
 .greedy-nav {
   position: relative;
   min-width: 250px;
-  background: $lightest-purple;
+  background: $light-purple;
 
   a {
     display: block;
     margin: 0 1rem;
     padding: 0.5rem 0;
     color: $masthead-link-color;
+    font-weight: 700;
     text-decoration: none;
 
     &:hover {
@@ -195,9 +196,10 @@
     right: 0;
     padding: 0 0.5rem;
     border: 0;
+    border-radius: 12px;
     outline: none;
     background-color: $primary-color;
-    color: $lightest-purple;
+    color: $light-purple;
     cursor: pointer;
     z-index: 100;
   }
@@ -210,7 +212,7 @@
       vertical-align: middle;
 
       &:first-child {
-        font-weight: bold;
+        font-weight: 700;
         text-wrap: wrap;
 
         a {
@@ -259,7 +261,7 @@
     padding: 5px;
     border: 1px solid $border-color;
     border-radius: $border-radius;
-    background: $lightest-purple;
+    background: $light-purple;
     box-shadow: 0 0 10px rgba(#000, 0.25);
 
     a {
@@ -336,13 +338,13 @@
     margin-left: -0.5em;
     padding-left: 0.5em;
     padding-right: 0.5em;
-    color: $lightest-purple;
-    font-weight: bold;
+    color: $light-purple;
+    font-weight: 700;
     background: $primary-color;
     border-radius: $border-radius;
 
     &:hover {
-      color: $lightest-purple;
+      color: $light-purple;
     }
   }
 }
@@ -350,18 +352,18 @@
 .nav__title {
   margin: 0;
   padding: 0.5rem 1rem;
-  font-family: $sans-serif-narrow;
+  font-family: $serif;
   font-size: $type-size-5;
-  font-weight: bold;
+  font-weight: 700;
 }
 
 .nav__sub-title {
   display: block;
   margin: 0.5rem 0;
   padding: 0.5rem 0;
-  font-family: $sans-serif-narrow;
+  font-family: $serif;
   font-size: $type-size-6;
-  font-weight: bold;
+  font-weight: 700;
   text-transform: uppercase;
   border-bottom: 1px solid $border-color;
 }
@@ -372,17 +374,17 @@
    ========================================================================== */
 
 .toc {
-  font-family: $sans-serif-narrow;
+  font-family: $serif;
   color: $gray;
   text-transform: uppercase;
   letter-spacing: 1px;
-  background-color: $lightest-purple;
+  background-color: $light-purple;
   border: 1px solid $border-color;
   border-radius: $border-radius;
   box-shadow: $box-shadow;
 
   .nav__title {
-    color: $lightest-purple;
+    color: $light-purple;
     font-size: $type-size-6;
     background: $primary-color;
     border-top-left-radius: $border-radius;

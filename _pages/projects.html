@@ -5,62 +5,257 @@ permalink: /projects/
 author_profile: true
 footer: false
 ---
-<head>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <style>
-  * {
-    box-sizing: border-box;
-  }
-  
-  /* Create two equal columns that floats next to each other */
-  .column {
-    float: left;
-    width: 30%;
-    padding: 10px;
-    height: 450px;
-  }
-  
-  /* Clear floats after the columns */
-  .row:after {
-    content: "";
-    display: table;
-    clear: both;
-  }
-  </style>
-</head>
 
-<body>
-<div class="row">
-  <div class="column" style="background-color:#d3d3d3;">
-    <h2>PhD Your Way </h2>
-    <p>My pride and joy, flagship event. For those PhD-curious who want to know what doing a maths PhD in the UK is like. Website <a href='https://sites.google.com/view/phd-your-way'>here.</a></p>
-  </div>
-  <div class="column" style="background-color:#f3f3f3;">
-    <h2>Unstable Fluid Podcast</h2>
-    <p>A mathematican and a physicist walk into a poscasting studio... and <a href='https://pod.link/1707160715'>this</a> is the outcome of that.</p>
-  </div>
-  <div class="column" style="background-color:#d3d3d3;">
-    <h2>QED Network</h2>
-    <p>I am delighted to be the <a href='https://sites.google.com/view/qednetwork/home?authuser=0'>Queer, Equality and Diversity Network of Mathematicians</a> resident tech gremlin.</p>
-  </div>
-</div>
-<div class="row">
-  <div class="column" style="background-color:#f3f3f3;">
-    <h2>[ex] Behind the Research </h2>
-    <p>Whilst completing my PhD at Bath, I created <a href='https://behindtheresearch.github.io'>Behind the Research</a>, which was an initiative with two goals
-    <div>
-      <ol>Give current PhD students the tools and confidence to create engagement content.</ol>
-      <ol>Showcase the unique pathways that exist in and out of academia.  </ol>
-    </div></p>
-  </div>
-  <div class="column" style="background-color:#d3d3d3;">
-    <h2>IMA Early Career Committee</h2>
-    <p>I am delighted to be Engagement Officer for the Institute of Mathematics and its Applications' Early Career Committee for 2024-2026.</p>
-  </div>
-  <div class="column" style="background-color:#f3f3f3;">
-    <h2>Placeholder</h2>
-    <p>I liked the 3 column layout so this is here for the moment</p>
-  </div>
+<style>
+
+.projects-grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(300px,1fr));
+  gap:2rem;
+  margin-top:2rem;
+}
+
+.project-card{
+  background:#fcfcfc;
+  border:4px solid var(--primary);
+  border-radius:18px;
+  padding:1.8rem;
+  box-shadow:0 8px 24px rgba(0,0,0,.08);
+  transition:border-color .25s ease;
+  display:flex;
+  flex-direction:column;
+}
+
+.project-card:hover{
+  border-color:var(--secondary);
+}
+
+.project-card h2{
+  margin-top:0.6rem;
+  margin-bottom:0.6rem;
+}
+
+.project-card p{
+  flex-grow:1;
+}
+
+.project-tag{
+  display:inline-block;
+  padding:0.25rem .8rem;
+  border-radius:999px;
+  border:2px solid var(--primary);
+  color:var(--primary);
+  font-size:.72rem;
+  font-weight:700;
+  text-transform:uppercase;
+  margin-bottom:.6rem;
+  transition:all .25s ease;
+}
+
+.project-card:hover .project-tag{
+  background:var(--secondary);
+  border-color:var(--secondary);
+  color:#fcfcfc;
+}
+
+.project-button{
+  display:block;
+  width:70%;
+  margin:1rem auto 0;
+  padding:0.55rem 1.2rem;
+  border-radius:999px;
+  background:var(--primary);
+  color:white !important;
+  text-align:center;
+  text-decoration:none;
+  font-weight:700;
+  transition:background-color .25s ease;
+}
+
+.project-card:hover .project-button{
+  background:var(--secondary);
+}
+
+
+/* ---------- Project colour themes ---------- */
+
+.phd{
+  --primary:#122d40;
+  --secondary:#D0DDCD;
+}
+.phd:hover .project-button {
+  color: #454545 !important;
+}
+.phd:hover .project-tag {
+  color: #454545 !important;
+}
+.podcast{
+  --primary:#6D0977;
+  --secondary:#019389;
+}
+
+.behind{
+  --primary:#B0D2DA;
+  --secondary:#D95B52;
+}
+.behind .project-button {
+  color: #454545 !important;
+}
+.behind:hover .project-button {
+  color: #fcfcfc !important;
+}
+.qed{
+  --primary:#E8D1F5;
+  --secondary:#E3CAA9;
+}
+.qed .project-button {
+  color: #454545 !important;
+}
+.qed:hover .project-button {
+  color: #454545 !important;
+}
+.qed:hover .project-tag {
+  color: #454545 !important;
+}
+
+.ima{
+  --primary:#B21863;
+  --secondary:#0AB8B5;
+}
+
+.future{
+  --primary:#701e60;
+  --secondary:#107e4f;
+}
+/* ---------- Optional logos ---------- */
+
+.project-logo{
+  width:80px;
+  height:80px;
+  object-fit:contain;
+  margin-bottom:0.5rem;
+}
+
+</style>
+
+Welcome to the projects that seem to consume an unreasonable amount of my time. Some are outreach initiatives, some are community projects, and some are simply ideas that got a little out of hand.
+
+<div class="projects-grid">
+
+<div class="project-card phd">
+
+<!-- Uncomment if you have a logo -->
+<!-- <img src="/images/BLANK.png" class="project-logo"> -->
+
+<span class="project-tag">Co-creator and Lead</span>
+
+<h2>PhD Your Way</h2>
+
+<p>
+My pride and joy. <strong>PhD Your Way</strong> helps people who are curious about doctoral study understand what doing a maths PhD in the UK is actually like, through talks, panels and online resources.
+</p>
+
+<a class="project-button" href="https://sites.google.com/view/phd-your-way">
+Visit →
+</a>
+
 </div>
 
-</body>
+
+<div class="project-card podcast">
+
+<!-- <img src="/images/BLANK.png" class="project-logo"> -->
+
+<span class="project-tag">Podcast</span>
+
+<h2>Unstable Fluid</h2>
+
+<p>
+A mathematician and a physicist walk into a podcast studio... and somehow nobody stopped us. We chat about fluid dynamics, research and the people behind the science.
+</p>
+
+<a class="project-button" href="https://pod.link/1707160715">
+Listen →
+</a>
+
+</div>
+
+
+<div class="project-card qed">
+
+<!-- <img src="/images/BLANK.png" class="project-logo"> -->
+
+<span class="project-tag">Community Building</span>
+
+<h2>QED Network</h2>
+
+<p>
+The Queer, Equality and Diversity Network of Mathematicians. I spend much of my time acting as the resident tech gremlin, helping keep everything running behind the scenes.
+</p>
+
+<a class="project-button" href="https://sites.google.com/view/qednetwork/home?authuser=0">
+Visit →
+</a>
+
+</div>
+
+
+<div class="project-card behind">
+
+<!-- <img src="/images/BLANK.png" class="project-logo"> -->
+
+<span class="project-tag">Founder & Former Leader</span>
+
+<h2>Behind the Research</h2>
+
+<p>
+Created during my PhD at Bath, this project aimed to help researchers create engaging public content while showcasing the many different pathways into and beyond academia.
+</p>
+
+<a class="project-button" href="https://behindtheresearch.github.io">
+Visit →
+</a>
+
+</div>
+
+
+<div class="project-card ima">
+
+<!-- <img src="/images/BLANK.png" class="project-logo"> -->
+
+<span class="project-tag">Collegial Leadership</span>
+
+<h2>IMA Early Career Committee</h2>
+
+<p>
+I currently serve as Engagement Officer for the Institute of Mathematics and its Applications' Early Career Committee, helping support early career mathematicians across the UK.
+</p>
+
+<a class="project-button" href="https://ima.org.uk/roles/early-career-mathematicians-committee/">
+Visit →
+</a>
+
+</div>
+
+
+<div class="project-card future">
+
+<!-- <img src="/images/BLANK.png" class="project-logo"> -->
+
+<span class="project-tag">KatDoesMaths</span>
+
+<h2>Kat Does Maths</h2>
+
+<p>
+
+If you haven't already checked out my maths communication work, I am available for a variety of speaking and hosting engagements. I bring an informal, energetic approach to mathematics, and am more than comfortable working with audiences who would consider themselves reluctant mathematicians.
+
+</p>
+
+<a class="project-button" href="https://katdoesmaths.me/hireme">
+Hire me?
+</a>
+
+</div>
+
+</div>

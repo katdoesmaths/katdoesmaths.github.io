@@ -4,8 +4,8 @@
 
 .masthead {
   position: fixed;
-  background: $lightest-purple;
-  color: $lightest-purple;
+  background: $light-purple;
+  color: $light-purple;
   border-bottom: 1px solid $border-color;
   height: $masthead-height;
   top: 0;
@@ -20,8 +20,11 @@
   &__inner-wrap {
     @include container;
     @include clearfix;
-    padding: 1em 1em 1em;
-    font-family: $sans-serif-narrow;
+    //height: 100%;
+    //display: flex;
+    padding: 0.2em 1em 1em;
+    align-items: center;
+    font-family: $serif;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
@@ -56,4 +59,9 @@
     padding-right: 3em;
     font-weight: 700;
   }
+}
+
+.masthead__menu-item--lg img {
+  max-height: 40px;
+  width: auto;
 }

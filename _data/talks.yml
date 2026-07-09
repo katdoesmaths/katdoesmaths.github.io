@@ -1,0 +1,989 @@
+- event: "European Postgraduate Fluid Dynamics Conference 2026"
+  categories:
+  # Content
+    - Training and Faciliation
+  # Role
+    - Guest
+    - Trainer
+  # Format
+    - Workshop
+  location: "University of Warwick"
+  date: "2026-07-09"
+  title: "How I learned to Stop Worrying and Love the 'Comm"
+
+- event: "More or Less"
+  categories:
+  # Content
+    - Maths Communication
+  # Role
+    - Guest
+    - Speaker
+  # Format
+    - Audio
+  location: "BBC Radio 4"
+  date: "2026-06-24"
+  title: "The Maths of Cymru Connections"
+  link: "https://www.bbc.co.uk/sounds/play/m002xzhb"
+
+- event: "Youtube Collab"
+  categories:
+  # Content
+    - Maths Communication
+  # Role
+    - Guest
+  # Format
+    -  Video
+  location: "Numberphile"
+  date: "2023-06-15"
+  title: "Palindromic Parents"
+  link: "https://youtu.be/fwLsCgibGw4?si=thdddZNwqG_hu-Z3"
+
+- event: "FameLab Poland"
+  categories:
+  # Content
+    - Maths Communication
+  # Role
+    - Guest
+    - Judge
+  # Format
+    - Competition
+  location: "Katowice, Poland"
+  date: "2026-06-09"
+  title: "National Final"
+  link: "https://us.edu.pl/en/multimedia/znamy-laureatow-famelab-poland-2026-tomas-senda-zwyciezca-tegorocznej-edycji/"
+
+- event: "Academy of Popular Science Competencies"
+  categories:
+  # Content
+    - Training and Faciliation
+  # Role
+    - Guest
+    - Trainer
+  # Format
+    - Workshop
+  location: "University of Silesia,Katowice, Poland"
+  date: "2026-06-08"
+  title: "Beyond the stage - Online Engagement"
+
+- event: "Academy of Popular Science Competencies"
+  categories:
+  # Content
+    - Training and Faciliation
+  # Role
+    - Guest
+    - Trainer
+  # Format
+    - Workshop
+  location: "University of Silesia,Katowice, Poland"
+  date: "2026-06-08"
+  title: "How I learned to Stop Worrying and Love the 'Comm"
+
+- event: "Diversity & Decolonisation Conference"
+  categories:
+    # Content
+    - PhDYourWay
+    # Role
+    - Speaker
+    # Format
+    - Conference
+  location: "University of Warwick"
+  date: "2026-05-08"
+  title: "PhDYourWay - a case study"
+
+- event: "EuroMech 666: Beyond the Free Surface"
+  categories:
+  # Content
+    - Knowledge Exchange
+  # Role
+    - Chair
+  # Format
+    - Workshop
+    - Conference
+  location: "University of Warwick"
+  date: "2026-04-22"
+  title: "Industrial Perspectives and Challenges"
+
+- event: "EuroMech 666: Beyond the Free Surface"
+  categories:
+  # Content
+    - Training and Facilitation
+  # Role
+    - Trainer
+  # Format
+    - Conference
+  location: "University of Warwick"
+  date: "2026-04-21"
+  title: "Communicating your work to (and finding) non-academic audiences"
+
+- event: "IMA Virtual Maths Tea (VMT)"
+  categories:
+  # Content
+    - Training and Facilitation
+  # Role
+    - Chair
+  # Format
+    - Seminar
+  location: "Online"
+  date: "2026-04-11"
+  title: "Guide to Networking"
+  link: "https://ima.org.uk/28698/ecm-vmt-a-mathematicians-guide-to-networking/"
+
+- event: "British Applied Maths Colloquium (BAMC)"
+  categories:
+  # Content
+    - Research Culture
+    - Maths Communication
+  # Role
+    - Organiser
+  # Format
+    - Conference
+  location: "University of East Anglia"
+  date: "2026-03-30"
+  title: "Communicating Maths: Responsible Modelling and Innovation Minisymposia"
+
+
+- event: "British Applied Maths Colloquium (BAMC)"
+  categories:
+  # Content
+    - Maths Communication
+  # Role
+    - Organiser
+  # Format
+    - Conference
+  location: "University of East Anglia"
+  date: "2024-04-11"
+  title: "Translating mathematics (and why we should) Minisymposia"
+
+- event: "EDIHub+ Annual Conference"
+  categories:
+  # Content
+    - PhDYourWay
+  # Role
+    - Invited
+    - Speaker
+  # Format
+    - Conference
+  location: "Leeds"
+  date: "2026-03-24"
+  title: "PhDYourWay"
+  link: "https://edihubplus.ac.uk/event/edi-hub-annual-conference-shaping-the-future-of-research-through-inclusion/"
+
+- event: "Finite Group Stream"
+  categories:
+  # Content
+    - Maths Communication
+  # Role
+    - Guest
+    - Speaker
+  # Format
+    - Livestream
+  location: "Online"
+  date: "2026-03-20"
+  title: "What's my age again?"
+  link: "https://www.patreon.com/posts/livestream-30-my-153526088?source=storefront"
+
+- event: "Oxford Women and Non-Binary People in Mathematics Day 2026"
+  categories:
+  # Content
+    - Research Culture
+  # Role
+    - Guest
+    - Speaker
+  # Format
+    - Panel
+    - Conference
+  location: "Andrew Wiles Building, Oxford"
+  date: "2026-02-28"
+  title: "Careers Panel"
+
+- event: "Oxford Women and Non-Binary People in Mathematics Day 2026"
+  categories:
+  # Content
+    - Training and Facilitation
+  # Role
+    - Guest
+    - Trainer
+  # Format
+    - Workshop
+    - Conference
+  location: "Andrew Wiles Building, Oxford"
+  date: "2026-02-28"
+  title: "How I learned to Stop Worrying and love the 'Comm (1hr)"
+  link: "https://www.oxwomeninmaths.co.uk/"
+
+- event: "Year 12 Open Day"
+  categories:
+  # Content
+    - Research Culture
+  # Role
+    - Panelist
+  # Format
+    - Seminar
+  location: "University of Warwick"
+  date: "2026-02-11"
+  title: "Careers Panel"
+
+- event: "Listening and Responding to Public Interest Conference"
+  categories:
+  # Content
+    - Research Culture
+  # Role
+    - Invited
+    - Speaker
+  # Format
+    - Conference
+  location: "Isaac Newton Institute, Cambridge"
+  date: "2026-01-29"
+  title: "Adapting to a Changing Audience"
+  link: "https://gateway.newton.ac.uk/event/tgm156/"
+
+- event: "An Evening of Unnecessary Detail"
+  categories:
+  # Content
+    - Maths Communication
+  # Role
+    - Guest
+  # Format
+    - Talk
+  location: "Up the Creek Comedy Club, Greenwich"
+  date: "2026-01-26"
+  title: "Palindromic Parents"
+  link: "https://www.instagram.com/p/DTSZgqLgcmZ/?utm_source=ig_web_button_share_sheet&igsh=MzRlODBiNWFlZA=="
+
+- event: "More or Less"
+  categories:
+  # Content
+    - Maths Communication
+  # Role
+    - Guest
+    - Speaker
+  # Format
+    - Audio
+  location: "BBC Radio 4"
+  date: "2026-01-21"
+  title: "The Maths of the Traitors"
+  link: "https://www.bbc.co.uk/sounds/play/m002q2lw"
+
+- event: "INI Maths Communication Workshop"
+  categories:
+  # Content
+    - Training and Facilitation
+  # Role
+    - Host
+  # Format
+    - Workshop
+  location: "University of Warwick"
+  date: "2026-01-13"
+  title: ""
+  link: "https://gateway.newton.ac.uk/event/tgm152/"
+
+- event: "IMA What is a...?"
+  categories:
+  # Content
+    - Training and Facilitation
+  # Role
+    - Invited
+    - Panelist
+  # Format
+    - Panel
+  location: "Online"
+  date: "2025-12-09"
+  title: "What is a Mathematics Communicator?"
+  link: "https://ima.org.uk/27860/what-is-a-mathematics-communicator/"
+
+- event: "9th Silesian Science Festival"
+  categories:
+  # Content
+    - Maths Communication
+  # Role
+    - Guest
+    - Speaker
+  # Format
+    - Festival
+  location: "Main Stage, International Congress Centre, Katowice, Poland"
+  date: "2025-12-07"
+  title: "Everyday Fluid Dynamics"
+  link: "https://slaskifestiwalnauki.pl/dynamika-plynow-codziennych-0"
+
+- event: "9th Silesian Science Festival"
+  categories:
+  # Content
+    - Maths Communication
+  # Role
+    - Guest
+    - Speaker
+  # Format
+    - Festival
+  location: "International Congress Centre, Katowice, Poland"
+  date: "2025-12-06"
+  title: "Everyday Fluid Dynamics"
+  link: "https://slaskifestiwalnauki.pl/dynamika-plynow-codziennych"
+
+- event: "National Mathematics and Science College"
+  categories:
+  # Content
+    - Maths Communication
+  # Role
+    - Guest
+    - Speaker
+  # Format
+    - Talk
+  location: "Warwick"
+  date: "2025-11-26"
+  title: "This is not a model (and other useful lies)"
+
+- event: "National Mathematics and Science College"
+  categories:
+    # Content
+    - Maths Communication
+  # Role
+    - Guest
+    - Speaker
+  # Format
+    - Talk
+  location: "Warwick"
+  date: "2025-11-26"
+  title: "Symphony to the Sea"
+
+- event: "Chalkdust Magazine"
+  categories:
+  # Content
+    - Maths Communication
+  # Role
+    - Author
+  # Format
+    - In-Print
+  location: "Online"
+  date: "2025-11-17"
+  title: "On the Cover: Folding Hydrogels"
+  link: "https://chalkdustmagazine.com/regulars/on-the-cover/folding-hydrogels/"
+
+- event: "Talking Maths in Public"
+  categories:
+  # Content
+    - Training and Facilitation
+  # Role
+    - Guest
+    - Host
+  # Format
+    - Conference
+  location: "University of Warwick"
+  date: "2025-08-28"
+  title: "Day 1 Compere"
+
+- event: "Talking Maths in Public"
+  categories:
+  # Content
+    - Training and Facilitation
+  # Role
+    - Guest
+    - Chair
+  # Format
+    - Conference
+  location: "University of Warwick"
+  date: "2025-08-28"
+  title: "Stage Persona Discussion"
+
+- event: "BIG Event"
+  categories:
+    # Content
+    - Training and Facilitation
+  # Role
+    - Facilitator
+  # Format
+    - Workshop
+    - Conference
+  location: "Royal Institution London"
+  date: "2025-07-16"
+  title: "Mathematical Art Exhibition"
+
+- event: "BIG Event"
+  categories:
+  # Content
+    - Training and Facilitation
+  # Role
+    - Facilitator
+  # Format
+    - Workshop
+    - Conference
+  location: "Royal Institution London"
+  date: "2025-07-17"
+  title: "Excellent online engagement"
+
+- event: "BIG Event"
+  categories:
+  # Content
+    - Training and Facilitation
+  # Role
+    - Facilitator
+  # Format
+    - Workshop
+    - Conference
+  location: "Royal Institution London"
+  date: "2025-07-16"
+  title: "Putting Maths in STEM Shows and titles"
+
+- event: "Count Me In Mentorship Meeting"
+  categories:
+  # Content
+    - Research Culture
+  # Role
+    - Invited
+    - Speaker
+  # Format
+    - Conference
+  location: "Roman Baths, University of Bath"
+  date: "2025-08-06"
+  title: "Alternative Career Paths"
+
+- event: "IMA Academic Rep Forum"
+  categories:
+  # Content
+    - PhDYourWay
+    - Research Culture
+  # Role
+    - Invited
+    - Speaker
+  # Format
+    - Conference
+
+  location: "University of Greenwich"
+  date: "2025-08-06"
+  title: "All about PhD Your Way"
+
+- event: "British Applied Mathematics Colloquium"
+  categories:
+  # Content
+    - Resarch Culture
+    - Training and Facilitation
+  # Role
+    - Oraganiser
+  # Format
+    - Minisymposia
+    - Conference
+  location: "University of Exeter"
+  date: "2025-06-25"
+  title: "Queer, Equality, and Diversity in Mathematics"
+
+- event: "Maths Department Open Day"
+  categories:
+   # Content
+    - Maths Communication
+  # Role
+    - Speaker
+  # Format
+  location: "University of Warwick"
+  date: "2025-06-14"
+  title: "Maths is Beautiful and Useful: Everyday Fluid Dynamics"
+
+- event: "PhD Career Continuation Event"
+  categories:
+  # Content
+    - Research Culture
+    - Training and Facilitation
+  # Role
+    - Panelist
+  # Format
+    - Seminar
+  location: "University of Warwick"
+  date: "2025-06-04"
+  title: "Postdoctoral Opportunities"
+
+- event: "LMS Early Career Series"
+  categories:
+    # Content
+    - Research Culture
+  # Role
+    - Panelist
+  # Format
+    - Livestream
+  location: "Online"
+  date: "2025-05-22"
+  title: "PhD Information Event"
+
+- event: "Maths in Action"
+  categories:
+  # Content
+    - Maths Communication
+  # Role
+    - Speaker
+  # Format
+  location: "Education in Action (London)"
+  date: "2025-03-19"
+  title: "From Symphony to the Sea"
+
+- event: "Science and sorcery Pride in STEM"
+  categories:
+  # Content
+    - Maths Communication
+  # Role
+    - Player
+    - Guest
+  # Format
+    - Livestream
+  location: "Twitch"
+  date: "2025-03-17"
+  title: "The Red Dragon's Blessing"
+  link: "https://www.youtube.com/live/NfX-BTuZIfI?si=DrV6aoMup8CEWPBP"
+
+- event: "PhD Application Information"
+  categories: 
+  # Content
+    - Research Culture
+  # Role
+    - Panelist
+  # Format
+    - Seminar
+  location: "University of Warwick"
+  date: "2025-03-05"
+  title: "Final year Maths Students Q&A Panel"
+
+
+- event: "PRiME Seminar"
+  categories:
+  # Content
+    - Research Culture
+  # Role
+    - Speaker
+  # Format
+    - Seminar
+  location: "University of Bath"
+  date: "2025-02-26"
+  title: "Filling the Gap, Finding your Niche"
+
+- event: "SPAAM Seminar"
+  categories:
+  # Content
+    - Research Culture
+  # Role
+    - Speaker
+  # Format
+    - Seminar
+  location: "University of Warwick"
+  date: "2025-02-20"
+  title: "Filling the Gap, Finding your Niche"
+  link: "https://youtu.be/8ZJ3sZHsos0?si=-JhAbaGxO_z13ebA"
+
+- event: "Applied and Computational Mathematics Seminar"
+  categories:
+  # Content
+    - Research
+  # Role
+    - Speaker
+  # Format
+    - Seminar
+  location: "Cardiff University"
+  date: "2024-11-26"
+  title: "Filling the Gap on Droplet Dynamics"
+  link: "https://youtu.be/rM-oRaZYUSM?si=nE_PiMSI7zCD7qxG"
+
+- event: "Maths in Action"
+  categories:
+  # Content
+    - Maths Communication
+  # Role
+    - Speaker
+  # Format
+  location: "Education in Action (Manchester)"
+  date: "2024-11-25"
+  title: "From Symphony to the Sea"
+
+- event: "National Mathematics and Science College"
+  categories:
+  # Content
+    - Maths Communication
+  # Role
+    - Speaker
+  # Format
+  location: "Warwick"
+  date: "2024-11-18"
+  title: "Everyday Fluid Dynamics"
+
+- event: "Maths in Action"
+  categories:
+  # Content
+    - Maths Communication
+  # Role
+    - Speaker
+  # Format
+  location: "Education in Action (Midlands)"
+  date: "2024-11-12"
+  title: "From Symphony to the Sea"
+
+- event: "Maths Communication Module"
+  categories:
+  # Content
+    - Training and Facilitation
+  # Role
+    - Speaker
+  # Format
+    - Lecture
+  location: "University of Warwick"
+  date: "2024-11-08"
+  title: "Public Speaking and Livestreaming"
+
+- event: "UK Fluids Network Conference"
+  categories:
+  # Content
+    - Research
+  # Role
+    - Speaker
+    - contributed
+  # Format
+    - Conference
+  location: "Swansea University"
+  date: "2024-09-09"
+  title: "Filling the Gap on Droplet Dynamics"
+
+- event: "PiForum"
+  categories:
+  # Content
+    - PhDYourWay
+    - Research Culture
+  # Role
+    - Invited
+    - Speaker
+  # Format
+    - Conference
+  location: "University of Leicester"
+  date: "2024-09-03"
+  title: "Advertising PhD Your Way"
+
+- event: "Applied Maths Postgraduate Conference"
+  categories:
+  # Content
+    - Training and Facilitation
+  # Role
+    - Invited
+    - Trainer
+  # Format
+    - Workshop
+  location: "University of Warwick"
+  date: "2024-07-08"
+  title: "Intro to Maths Communication (Full Day)"
+
+- event: "Pint of Science"
+  categories:
+  # Content
+    - Maths Communication
+  # Role
+    - Speaker
+  location: "Saracens Head, Bath"
+  date: "2024-05-14"
+  title: "Fluids, fluids everywhere and not a drop to drink!"
+
+- event: "British Applied Maths Colloquium (BAMC)"
+  categories:
+  # Content
+    - Training and Facilitation
+  # Role
+    - Organiser
+  # Format
+    - Conference
+  location: "University of Newcastle"
+  date: "2024-04-11"
+  title: "Maths Communication Minisymposia"
+
+- event: "British Applied Maths Colloquium (BAMC)"
+  categories:
+  # Content
+    - Training and Facilitation
+  # Role
+    - Speaker
+  # Format
+    - Minisymposia
+    - Conference
+  location: "University of Newcastle"
+  date: "2024-04-11"
+  title: "How I learned to stop worrying and love the 'Comm"
+
+- event: "Physics in Action"
+  categories:
+  # content
+    - Maths Communication
+  # Role
+    - Speaker
+  location: "Education in Action (London)"
+  date: "2023-12-06"
+  title: "Everyday Fluid Dynamics"
+
+- event: "Chalkdust Issue #18"
+  categories:
+    - Interviewee
+    - Guest
+    - In-Print
+  location: "by Ellen Jolley and Bethany Clarke"
+  date: "2023-12-06"
+  title: "In Conversation with Kat Phillips"
+  link: "http://chalkdustmagazine.com/interviews/in-conversation-with-kat-phillips/"
+
+- event: "Physics in Action"
+  categories:
+  # Content
+    - Maths Communication
+  # Role
+    - Speaker
+  location: "Education in Action (Manchester)"
+  date: "2023-11-21"
+  title: "Everyday Fluid Dynamics"
+
+- event: "Physics in Action"
+  categories:
+  # Content
+    - Maths Communication
+  # Role
+    - Speaker
+  location: "Education in Action (University of Birmingham)"
+  date: "2023-11-10"
+  title: "Everyday Fluid Dynamics"
+
+- event: "The Aperiodical"
+  categories:
+    - Interviewee
+    - Guest
+    - In-Print
+  location: "by Katie Steckles"
+  date: "2023-11-01"
+  title: "One to Watch"
+  link: "https://aperiodical.com/2023/11/eipi-to-watch-kat-does-maths/"
+
+- event: "Math-Sys CDT Forum"
+  categories:
+  # Content
+    - Research
+    - Maths Communication
+  # Role
+    - Invited
+    - Speaker
+  # Format
+    - Seminar
+  location: "University of Warwick"
+  date: "2023-10-11"
+  title: "Kat Does Maths - From bouncing droplets to Subathons"
+
+- event: "Si Mon Sci Comm Con"
+  categories:
+  # Content
+    - Training and Facilitation
+    - Guest
+  # Role
+    - Organiser
+    - Host
+  # Format
+    - Convention
+  location: "Bath"
+  date: "2023-09-03"
+  title: "Lightning Talks"
+
+- event: "Talking Maths in Public"
+  categories:
+  # Content
+    - Maths Communication
+  # Role
+    - Speaker
+  # Format
+    - Lightning Talk
+    - Conference
+  location: "University of Newcastle"
+  date: "2023-08-31"
+  title: "How I learned to stop worrying and love the ‘Comm"
+
+- event: "International Council for Industrial and Applied Mathematics Conference (ICIAM)"
+  categories:
+  # Content
+    - Researcher
+  # Role
+    - Speaker
+  # Format
+    - Poster
+    - Conference
+  location: "University of Waseda, Japan"
+  date: "2023-08-22"
+  title: "Drop Impact: modelling a lubrication air layer and surface waves in droplet rebound dynamics"
+
+- event: "SamSighs Guest Player"
+  categories:
+  # Content
+    - Maths Communication
+  # Role
+    - Player
+    - Guest
+  # Format
+    - Livestream
+  location: "Twitch"
+  date: "2023-06-22"
+  title: "The Pork Pie Predicament"
+
+- event: "Youtube Takeover"
+  categories:
+  # Content
+    - Maths Communication
+  # Role
+    - Interviewee
+    - Guest
+  # Format
+    -  Video
+  location: "Simon Clark"
+  date: "2023-05-24"
+  title: "The Ultimate Fluid Mechanics Tier List"
+  link: "https://youtu.be/gF9G7g1nTDk?si=cQxFTYDPjUBTMVxF"
+
+- event: "Waves and Free Surface Flows: The next 20 years"
+  categories:
+  # Content
+    - Research
+  # Role
+    - Invited
+    - Speaker
+  # Format
+    - Conference
+  location: "International Centre for Mathematical Sciences (ICMS), Edinburgh"
+  date: "2023-05-16"
+  title: "Drop Impact: modelling a lubrication air layer and surface waves in droplet rebound dynamics"
+  link: "https://youtu.be/zWXf93aLjgw?si=swj1h31metd8bPVV"
+
+- event: "Good Practice Scheme Workshop on Diversity in PhD Recruitment"
+  categories:
+  # Content
+    - PhDYourWay
+    - Training and Facilitation
+  # Role
+    - Speaker
+  # Format
+    - Conference
+  location: "De Morgan House, London"
+  date: "2023-04-19"
+  title: "PhD Your Way - a summary"
+
+- event: "British Applied Maths Colloquium (BAMC)"
+  categories:
+  # Content
+    - Research
+  # Role
+    - Speaker
+  # Format
+    - Conference
+  location: "University of Bristol & University of West England"
+  date: "2023-04-11"
+  title: "Drop Impact: modelling a lubrication air layer and surface waves in droplet rebound dynamics"
+
+- event: "Science and Sorcery"
+  categories:
+  # Content
+    - Maths Communication
+  # Role
+    - Game Master
+    - Guest
+  # Format
+    - Livestream
+  location: "Twitch"
+  date: "2023-01-20"
+  title: "Dungeons and Dragons - Shemshime's Bedtime Rhyme"
+
+- event: "24 Hour Maths Game Show"
+  categories:
+  # Content
+    - Maths Communication
+  # Role
+    - Player
+    - Guest
+  # Format
+    - Livestream
+  location: "YouTube Livestream"
+  date: "2022-10-29"
+  title: "Dungeons and Dragons - The Pact Mathematical"
+  link: "https://24hourmaths.com/gameshow"
+
+- event: "Science and Sorcery"
+  categories:
+  # Content
+    - Maths Communication
+  # Role
+    - Player
+    - Guest
+  # Format
+    - Livestream
+  location: "Twitch"
+  date: "2022-08-19"
+  title: "Dungeons and Dragons -  From Top to Bottom"
+  link: "https://youtu.be/WIWAWUcWQsA?si=akl7CkuT6CIaljAH"
+
+- event: "SAMBa Summer Conference"
+  categories:
+  # Content
+    - Research
+  # Role
+    - Speaker
+  # Format
+    - Conference
+  location: "University of Bath"
+  date: "2022-07-06"
+  title: "Lubrication layer cushioned capillary-scale rebound dynamics"
+
+- event: "British Applied Maths Colloquium (BAMC)"
+  categories:
+  # Content
+    - Research
+  # Role
+    - Invited
+    - Speaker
+  # Format
+    - Conference
+  location: "University of Loughborough"
+  date: "2022-04-11"
+  title: "Lubrication layer driven capillary-scale rebound dynamics: A pseudo-spectral approach"
+
+- event: "PhD Stories"
+  categories:
+  # Content
+    - Maths Communication
+  # Role
+    - Guest
+    - Interviewee
+  # Format
+    - Video
+  location: "Simon Clark YouTube"
+  date: "2022-05-24"
+  title: "How to get a PhD in Fluid Mechanics?"
+  link: "https://youtu.be/2hgG4ieFuKw?si=Sx5dbyNAsSHiTfJ6"
+
+- event: "Girls who STEM"
+  categories:
+  # Content
+    - Research Culture
+  # Role
+    - Guest
+    - Interviewee
+  # Format
+    - In-Print
+  location: "Online"
+  date: "2021-11-01"
+  title: "Women in STEM Wednesdays"
+  link: "https://girlswhostem.co.uk/2021/09/01/women-in-stem-wednesday-kat/"
+
+- event: "SAMBa Summer Conference"
+  categories:
+  # Content
+    - Research
+  # Role
+    - Speaker
+  # Format
+    - Conference
+  location: "University of Bath"
+  date: "2021-07-06"
+  title: "Lubrication layer cushioned capillary-scale rebound dynamics"
+
+- event: "SAMBa Summer Conference"
+  categories:
+  # Content
+    - Research
+  # Role
+    - Speaker
+  # Format
+    - Lightning Talk
+    - Conference
+  location: "Virtual (University of Bath)"
+  date: "2020-07-08"
+  title: "Why is a bomb in the ocean like rain?"
+
+

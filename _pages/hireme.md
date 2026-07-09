@@ -5,8 +5,7 @@ permalink: /hireme/
 author_profile: true
 ---
 
- I am currently available from August 2026 onwards, for fees and booking please reach out at katdoesenquiries(at)gmail.com.
-
+ I have limited availability for Autumn 2026, bookings now open for Spring 2027. For fees and booking please reach out at katdoesenquiries(at)gmail.com.
 
 
 Speaking 
@@ -19,9 +18,9 @@ I am available for a variety of speaking and hosting engagements. I bring an inf
 * **Popular Science talks** <br>
     I'm happy to create custom talks for an increased fee, however my current roster inlcudes:
     * Everyday fluid dynamics (16+) 
-    * From Symphony to the sea (16+)
+    * Note Perfect (16+)
     * This is not a model: and other useful lies (14+)
-    * Circles, and Gauss, and squares, oh π! (16+)
+    * Counting to π (16+)
     * A mathematician walks into a bar... (18+)
     * Palindromic Parents (14+)
     
