@@ -14,7 +14,7 @@ Here is a list of every place you have seen my face, you can filter with the but
     All
   </button>
 
-  {% assign categories = "Research,Maths Communication,Training and Facilitation,Research Culture,PhDYourWay,Knowledge Exchange,Guest" | split: "," %}
+  {% assign categories = "Research,Maths Communication,Training and Facilitation,Research Culture,PhDYourWay,Knowledge Exchange,Invited" | split: "," %}
 
   {% for category in categories %}
   <button class="talk-filter {{ category | slugify }}" data-filter="{{ category | slugify }}">
@@ -113,16 +113,15 @@ Here is a list of every place you have seen my face, you can filter with the but
 .talk-filter.research-culture {          --tag-color: #DB757E;}
 .talk-filter.phdyourway {                --tag-color: #122d40;}
 .talk-filter.knowledge-exchange {        --tag-color: #2A7F9E;}
-.talk-filter.guest {                     --tag-color: #E5A229;}
+.talk-filter.invited {                     --tag-color: #E5A229;}
 /* Role */
 .talk-tag.contributed{                color: #545454;}
-.talk-tag.invited {                   color: #545454;}
 .talk-tag.organiser {                 color: #545454;}
 .talk-tag.facilitator {               color: #545454;}
 .talk-tag.trainer {                   color: #545454;}
 .talk-tag.chair {                     color: #545454;}
 .talk-tag.host {                      color: #545454;}
-.talk-tag.guest {                     color: #E5A229;}
+.talk-tag.invited {                     color: #E5A229;}
 .talk-tag.speaker {                   color: #545454;}
 .talk-tag.author {                    color: #545454;}
 /* Format */
@@ -138,14 +137,9 @@ Here is a list of every place you have seen my face, you can filter with the but
 .talk-tag.talk {                      color: #828282;}  
 .talk-tag.festival {                  color: #828282;}
 .talk-tag.lecture {                   color: #828282;}
-
-
-
-
-
-
-
 </style>
+
+
 
 
 <script>
